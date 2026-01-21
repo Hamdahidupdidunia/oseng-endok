@@ -8,19 +8,6 @@
   transition: border-color 500ms;
 }
 
-
-/*-- SHOWCASE --*/
-#showcase {
-  background: 
-    linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-    url('../img/osengendok.jpg') center/cover no-repeat fixed;
-  height: 600px;
-  padding-top: 150px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white; 
-}
 #showcase h1{
   padding-top: 250px;
 }
@@ -47,5 +34,6 @@
       max-width: 1140px;
   }
 }
+
 
 
