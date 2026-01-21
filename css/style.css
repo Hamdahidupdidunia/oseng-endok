@@ -13,7 +13,7 @@
 #showcase {
   background: 
     linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-    url('../img/osengendok.jpg') center/cover no-repeat fixed;
+    url('../img/oseng.jpg') center/cover no-repeat fixed;
   height: 600px;
   padding-top: 150px;
   display: flex;
@@ -47,3 +47,4 @@
       max-width: 1140px;
   }
 }
+
